@@ -1,0 +1,4 @@
+Menu Makanan
+- soto
+- ayam bakar
+- ayam goreng
