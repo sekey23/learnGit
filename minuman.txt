@@ -3,6 +3,7 @@ Daftar Minuman
 - Kopi
   - Kop hitam
   - kopi susu
+  - kopi doang
 - Es teh manis
 - Teh manis pana
 - Es jeruk
