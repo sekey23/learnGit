@@ -2,3 +2,5 @@ Menu Makanan
 - soto
 - ayam bakar
 - ayam goreng
+- rawon
+- indomie
